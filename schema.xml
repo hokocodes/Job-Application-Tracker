@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jobApplications>
+    <application>
+        <applicant>
+            <name>
+                <first>John</first>
+                <last>Doe</last>
+            </name>
+            <contact>
+                <email>john.doe@example.com</email>
+                <phone>123-456-7890</phone>
+            </contact>
+        </applicant>
+        <position>
+            <title>Software Developer</title>
+            <company>ABC Tech</company>
+            <location>New York, NY</location>
+        </position>
+        <applicationStatus>
+            <status>Submitted</status>
+            <date>2023-10-25</date>
+        </applicationStatus>
+    </application>
+    <!-- Additional application entries can go here -->
+</jobApplications>
